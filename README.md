@@ -1,7 +1,5 @@
 # 🌟 Vue ChatGPT AI
 
-[![YOLO](https://forthebadge.com/images/badges/yolo.svg)](https://forthebadge.com)
-Add YOLO badge
 
 
 ✨ Powered by Modern Technologies
